@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amal Sebastian, a PhD student at Carnegie Mellon University.
+- 👋 Hi, I’m Amal Sebastian, a PhD student at the University of Michigan, Ann Arbor.
 - 👀 I’m interested in computational modelling of physical systems.
 - 📫 How to reach me: amalss [at] cmu.edu
 
